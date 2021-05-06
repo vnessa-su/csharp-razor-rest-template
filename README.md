@@ -30,6 +30,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 ### Installation
 1. Clone the repository: `$ git clone {PUT_REPO_HERE}`
 2. Navigate to the `{NAME_OF_DIRECTORY}` directory
+3. Open with your preferred text editor to view the code base
 * #### Run the Program
 1. Navigate to the `{NAME_OF_DIRECTORY}` directory
 2. Run `dotnet restore`
