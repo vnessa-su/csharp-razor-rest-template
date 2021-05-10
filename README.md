@@ -33,13 +33,13 @@ _{This is a detailed description of your application. Give as much detail as nee
 3. Open with your preferred text editor to view the code base
 * #### Run the Program
 1. Navigate to the `{NAME_OF_DIRECTORY}` directory
-2. Run `dotnet restore`
-3. Run `dotnet build`
-4. Start the program with `dotnet run`
+2. Run `$ dotnet restore`
+3. Run `$ dotnet build`
+4. Start the program with `$ dotnet run`
 * #### Run the Tests
 1. Navigate to the `{NAME_OF_DIRECTORY}` directory
-2. Run `dotnet restore`
-4. Start the tests with `dotnet test`
+2. Run `$ dotnet restore`
+4. Start the tests with `$ dotnet test`
 
 ## Known Bugs
 
