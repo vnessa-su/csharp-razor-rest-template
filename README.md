@@ -17,7 +17,8 @@ _{This is a detailed description of your application. Give as much detail as nee
 ## Technologies Used
 
 * C#
-* .NET
+* ASP.NET&#8203; Core
+* Razor
 * MSTest
 * VS Code
 
@@ -36,6 +37,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 2. Run `$ dotnet restore`
 3. Run `$ dotnet build`
 4. Start the program with `$ dotnet run`
+5. Open http://localhost:5000/ in your preferred browser
 * #### Run the Tests
 1. Navigate to the `{NAME_OF_DIRECTORY}` directory
 2. Run `$ dotnet restore`
